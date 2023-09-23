@@ -2,7 +2,7 @@
 
 ## Framework/Flow
 ### OpenPARF
-- [Link](https://github.com/PKU-IDEA/OpenPARF) | [Paper](https://arxiv.org/abs/2306.16665)
+- [GutHub](https://github.com/PKU-IDEA/OpenPARF) | [Paper](https://arxiv.org/abs/2306.16665)
 - Summary: OpenPARF is an open-source FPGA placement and routing framework built upon the deep learning toolkit PyTorch. It is designed to be flexible, efficient, and extensible.
 - Benchmark: ISPD 2016 FPGA Placement Benchmarks, ISPD 2017 FPGA Placement Benchmarks.
 
