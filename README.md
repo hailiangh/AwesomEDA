@@ -19,5 +19,5 @@
 
 ## Benchmarks
 ### Koios 2.0
-- [Link](https://github.com/verilog-to-routing/vtr-verilog-to-routing/tree/master/vtr_flow/benchmarks/verilog/koios) | [Paper](https://lca.ece.utexas.edu/pubs/Koios_Benchmarks_IEEE_verified.pdf) | [Slides](https://oscar-workshop.github.io/files/05_Koios_Oscar_2023.pdf)
+- [GitHub](https://github.com/verilog-to-routing/vtr-verilog-to-routing/tree/master/vtr_flow/benchmarks/verilog/koios) | [Paper](https://lca.ece.utexas.edu/pubs/Koios_Benchmarks_IEEE_verified.pdf) | [Slides](https://oscar-workshop.github.io/files/05_Koios_Oscar_2023.pdf)
 - Summary: Koios benchmarks are a set of Deep Learning (DL) benchmarks for FPGA architecture and CAD research. 
