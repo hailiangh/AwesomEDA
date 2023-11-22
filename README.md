@@ -23,5 +23,5 @@
 - Summary: Koios benchmarks are a set of Deep Learning (DL) benchmarks for FPGA architecture and CAD research.
 
 ### CircuitNet
-- [GitHub] (https://circuitnet.github.io/) | [Paper](https://ieeexplore.ieee.org/document/10158384)
+- [GitHub](https://circuitnet.github.io/) | [Paper](https://ieeexplore.ieee.org/document/10158384)
 - Summary: CircuitNet is an open-source dataset dedicated to machine learning (ML) applications in electronic design automation (EDA).
