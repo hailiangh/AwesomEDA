@@ -15,7 +15,6 @@
 - RACI: A Resource-Aware Cooperative Inference Framework on Heterogeneous Edge Devices
 - Foveated HDR: Efficient HDR Content Generation on Edge Devices Leveraging User's Visual Attention
 - ConSmax: Hardware-Friendly Alternative Softmax with Learnable Parameters
-- MatFactory: A Framework for High-performance Matrix Factorization on FPGAs
 - EasyPart: An Effective and Comprehensive Hypergraph Partitioner for FPGA-based Emulation
 - AdaPI: Facilitating DNN Model Adaptivity for Efficient Private Inference in Edge Computing
 - EPipe: Pipeline Inference Framework with High-quality Offline Parallelism Planning for Heterogeneous Edge Devices
@@ -33,7 +32,7 @@
 - A Sparsity-Aware Autonomous Path Planning Accelerator with Algorithm-Architecture Co-Design
 - Edge-BiT: Software-Hardware Co-design for Optimizing Binarized Transformer Networks Inference on Edge FPGA
 - Co-Designing Binarized Transformer and Hardware Accelerator for Efficient End-to-End Edge Deployment
-- **An Agile Framework for Efficient LLM Accelerator Development and Model Inference**
+- An Agile Framework for Efficient LLM Accelerator Development and Model Inference
 - ALISE: Accelerating Large Language Model Serving with Speculative Scheduling
 - ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity
 - LACO: A Latency-Constraint Offline Neural Network Scheduler towards Reliable Self-Driving Perception
